@@ -1,0 +1,10 @@
+BANGOR         02/10/12       2.5       W         2.5 C  Paul Smith
+OLD_TOWN       02/10/12       4.1       N         28.9 F Susan Spellman
+BANGOR         02/10/12       3.9       W         1.0 C  Tom Houson
+CALAIS         02/10/12       2.9       N         34.5 F Mike Conway
+CALAIS         02/10/12       2.2       N         34.1 F Penny Thomas
+BAR_HARBOR     02/10/12       2.6       W         4.7 C  Laurel Penn
+BANGOR         02/10/12       2.9       N         32.0 F Xang Xao
+PORTLAND       02/10/12       2.2       N         4.4 C  Jared Washington
+PORTLAND       02/10/12       2.9       N         3.8 C  Opal Tines
+OLD_TOWN       02/10/12       3.6       N         29.7 F Kaitlin Wallis

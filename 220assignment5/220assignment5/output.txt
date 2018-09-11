@@ -1,0 +1,28 @@
+Wind Measurements for Month 2 by Kody Moseley
+
+Wind Speed (m/sec)       Direction           Temp (F)            Temp (C)            Wind Chill (F)      Wind Chill (C)      
+--------------------------------------------------------------------------------------------------------------------------
+2.50                     W                   36.50               2.50                34.81               1.56                
+4.10                     N                   28.90               -1.72               19.30               -7.06               
+3.90                     W                   33.80               1.00                25.70               -3.50               
+2.90                     N                   34.50               1.39                30.73               -0.70               
+2.20                     N                   34.10               1.17                34.02               1.12                
+2.60                     W                   40.46               4.70                38.42               3.57                
+2.90                     N                   32.00               0.00                28.07               -2.18               
+2.20                     N                   39.92               4.40                39.85               4.36                
+2.90                     N                   38.84               3.80                35.36               1.87                
+3.60                     N                   29.70               -1.28               22.29               -5.39               
+
+Number of readings: 10
+Average wind speed (m/sec): 2.98
+Average temperature (F): 34.87
+Average temperature (C): 1.60
+
+Month          Temp Average (F)    
+------------------------------
+1              24.90               
+2              32.70               
+3              45.90               
+12             36.30               
+
+The difference from historical average for month 2 is 2.17F

@@ -1,0 +1,3 @@
+﻿  220assignmentX.cpp
+c:\users\kody\source\repos\220assignmentx\220assignmentx\220assignmentx.cpp(63): warning C4715: 'grade': not all control paths return a value
+  220assignmentX.vcxproj -> C:\Users\Kody\source\repos\220assignmentX\Debug\220assignmentX.exe
